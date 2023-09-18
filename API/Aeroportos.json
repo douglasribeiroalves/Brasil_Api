@@ -1,0 +1,1514 @@
+[
+	{
+		"Iata": "AAX",
+		"Icao": "SBAX",
+		"Aeroporto": "Romeu Zema Airport",
+		"Cidade": "Araxa",
+		"Estado": "MG",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "AFL",
+		"Icao": "SBAT",
+		"Aeroporto": "Piloto Osvaldo Marques Dias Airport",
+		"Cidade": "Alta Floresta",
+		"Estado": "MT",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "AIR",
+		"Icao": "SWRP",
+		"Aeroporto": "Aripuanã Airport",
+		"Cidade": "Aripuana",
+		"Estado": "MT",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "AJU",
+		"Icao": "SBAR",
+		"Aeroporto": "Santa Maria Airport",
+		"Cidade": "Aracaju",
+		"Estado": "SE",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "APQ",
+		"Icao": "SNAL",
+		"Aeroporto": "Arapiraca Airport",
+		"Cidade": "Arapiraca",
+		"Estado": "AL",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "AQA",
+		"Icao": "SBAQ",
+		"Aeroporto": "Araraquara Airport",
+		"Cidade": "Araracuara",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ARU",
+		"Icao": "SBAU",
+		"Aeroporto": "Araçatuba Airport",
+		"Cidade": "Aracatuba",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ATM",
+		"Icao": "SBHT",
+		"Aeroporto": "Altamira Airport",
+		"Cidade": "Altamira",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "AUX",
+		"Icao": "SWGN",
+		"Aeroporto": "Araguaína Airport",
+		"Cidade": "Araguaina",
+		"Estado": "TO",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BAT",
+		"Icao": "SBBT",
+		"Aeroporto": "Chafei Amsei Airport",
+		"Cidade": "Barretos",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BAU",
+		"Icao": "SBBU",
+		"Aeroporto": "Bauru Airport",
+		"Cidade": "Bauru",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BAZ",
+		"Icao": "SWBC",
+		"Aeroporto": "Barcelos Airport",
+		"Cidade": "Barcelos",
+		"Estado": "AM",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BEL",
+		"Icao": "SBBE",
+		"Aeroporto": "Val de Cans/Júlio Cezar Ribeiro International Airport",
+		"Cidade": "Belem",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BFH",
+		"Icao": "SBBI",
+		"Aeroporto": "Bacacheri Airport",
+		"Cidade": "Curitiba",
+		"Estado": "PR",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BGX",
+		"Icao": "SBBG",
+		"Aeroporto": "Comandante Gustavo Kraemer Airport",
+		"Cidade": "Bage",
+		"Estado": "RS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BJP",
+		"Icao": "SBBP",
+		"Aeroporto": "Estadual Arthur Siqueira Airport",
+		"Cidade": "Braganca Paulista",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BNU",
+		"Icao": "SSBL",
+		"Aeroporto": "Blumenau Airport",
+		"Cidade": "BLUMENAU",
+		"Estado": "SC",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BPS",
+		"Icao": "SBPS",
+		"Aeroporto": "Porto Seguro Airport",
+		"Cidade": "Porto Seguro",
+		"Estado": "RS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BRA",
+		"Icao": "SNBR",
+		"Aeroporto": "Barreiras Airport",
+		"Cidade": "Barreiras",
+		"Estado": "BA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BSB",
+		"Icao": "SBBR",
+		"Aeroporto": "Presidente Juscelino Kubistschek International Airport",
+		"Cidade": "Brasilia",
+		"Estado": "DF",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BVB",
+		"Icao": "SBBV",
+		"Aeroporto": "Atlas Brasil Cantanhede Airport",
+		"Cidade": "Boa Vista",
+		"Estado": "RR",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BVH",
+		"Icao": "SBVH",
+		"Aeroporto": "Brigadeiro Camarão Airport",
+		"Cidade": "Vilhena",
+		"Estado": "RO",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BVS",
+		"Icao": "SNVS",
+		"Aeroporto": "Breves Airport",
+		"Cidade": "Breves",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BYO",
+		"Icao": "SJDB",
+		"Aeroporto": "Bonito Airport",
+		"Cidade": "Bonito",
+		"Estado": "MS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "BZC",
+		"Icao": "SBBZ",
+		"Aeroporto": "Umberto Modiano Airport",
+		"Cidade": "Buzios",
+		"Estado": "RJ",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CAC",
+		"Icao": "SBCA",
+		"Aeroporto": "Cascavel Airport",
+		"Cidade": "Cascavel",
+		"Estado": "PR",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CAF",
+		"Icao": "SWCA",
+		"Aeroporto": "Carauari Airport",
+		"Cidade": "Carauari",
+		"Estado": "AM",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CAU",
+		"Icao": "SNRU",
+		"Aeroporto": "Caruaru Airport",
+		"Cidade": "Caruaru",
+		"Estado": "PE",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CAW",
+		"Icao": "SBCP",
+		"Aeroporto": "Bartolomeu Lisandro Airport",
+		"Cidade": "Campos",
+		"Estado": "RJ",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CCI",
+		"Icao": "SSCK",
+		"Aeroporto": "Concórdia Airport",
+		"Cidade": "Concordia",
+		"Estado": "SC",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CCM",
+		"Icao": "SBCM",
+		"Aeroporto": "Diomício Freitas Airport",
+		"Cidade": "Criciuma",
+		"Estado": "SC",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CCX",
+		"Icao": "SWKC",
+		"Aeroporto": "Cáceres Airport",
+		"Cidade": "Caceres",
+		"Estado": "MT",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CDJ",
+		"Icao": "SBAA",
+		"Aeroporto": "Conceição do Araguaia Airport",
+		"Cidade": "Conceicao Do Araguaia",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CFB",
+		"Icao": "SBCB",
+		"Aeroporto": "Cabo Frio Airport",
+		"Cidade": "Cabo Frio",
+		"Estado": "RJ",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CFC",
+		"Icao": "SBCD",
+		"Aeroporto": "Caçador Airport",
+		"Cidade": "Cacador",
+		"Estado": "SC",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CFO",
+		"Icao": "SJHG",
+		"Aeroporto": "Confresa Airport",
+		"Cidade": "Confresa",
+		"Estado": "MT",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CGB",
+		"Icao": "SBCY",
+		"Aeroporto": "Marechal Rondon Airport",
+		"Cidade": "Cuiaba",
+		"Estado": "MT",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CGH",
+		"Icao": "SBSP",
+		"Aeroporto": "Congonhas – Deputado Freitas Nobre Airport",
+		"Cidade": "Sao Paulo",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CGR",
+		"Icao": "SBCG",
+		"Aeroporto": "Campo Grande Airport",
+		"Cidade": "Campo Grande",
+		"Estado": "MS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CIZ",
+		"Icao": "SWKO",
+		"Aeroporto": "Coari Airport",
+		"Cidade": "Coari",
+		"Estado": "AM",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CKS",
+		"Icao": "SBCJ",
+		"Aeroporto": "Carajás Airport",
+		"Cidade": "Parauapebas",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CLN",
+		"Icao": "SBCI",
+		"Aeroporto": "Brig. Lysias Augusto Rodrigues Airport",
+		"Cidade": "Carolina",
+		"Estado": "MA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CLV",
+		"Icao": "SBCN",
+		"Aeroporto": "Nelson Ribeiro Guimarães Airport",
+		"Cidade": "Caldas Novas",
+		"Estado": "GO",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CMG",
+		"Icao": "SBCR",
+		"Aeroporto": "Corumbá International Airport",
+		"Cidade": "Corumba",
+		"Estado": "MS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CMP",
+		"Icao": "SNKE",
+		"Aeroporto": "Santana do Araguaia Airport",
+		"Cidade": "Santana do Araguaia",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CNF",
+		"Icao": "SBCF",
+		"Aeroporto": "Tancredo Neves International Airport",
+		"Cidade": "Belo Horizonte",
+		"Estado": "MG",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CPQ",
+		"Icao": "SDAM",
+		"Aeroporto": "Amarais Airport",
+		"Cidade": "Campinas",
+		"Estado": "SP",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CPV",
+		"Icao": "SBKG",
+		"Aeroporto": "Presidente João Suassuna Airport",
+		"Cidade": "Campina Grande",
+		"Estado": "PB",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CRQ",
+		"Icao": "SBCV",
+		"Aeroporto": "Caravelas Airport",
+		"Cidade": "Caravelas",
+		"Estado": "BA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CWB",
+		"Icao": "SBCT",
+		"Aeroporto": "Afonso Pena Airport",
+		"Cidade": "Curitiba",
+		"Estado": "PA",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CXJ",
+		"Icao": "SBCX",
+		"Aeroporto": "Hugo Cantergiani Regional Airport",
+		"Cidade": "Caxias Do Sul",
+		"Estado": "RS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "CZS",
+		"Icao": "SBCZ",
+		"Aeroporto": "Cruzeiro do Sul Airport",
+		"Cidade": "Cruzeiro do Sul",
+		"Estado": "AC",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "DIQ",
+		"Icao": "SNDV",
+		"Aeroporto": "Brigadeiro Cabral Airport",
+		"Cidade": "Divinopolis",
+		"Estado": "MG",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "DMT",
+		"Icao": "SWDM",
+		"Aeroporto": "Diamantino Airport",
+		"Cidade": "Diamantino",
+		"Estado": "MG",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "DOU",
+		"Icao": "SSDO",
+		"Aeroporto": "Dourados Airport",
+		"Cidade": "Dourados",
+		"Estado": "MS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "DTI",
+		"Icao": "SNDT",
+		"Aeroporto": "Diamantina Airport",
+		"Cidade": "Diamantina",
+		"Estado": "MG",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ERM",
+		"Icao": "SSER",
+		"Aeroporto": "Erechim Airport",
+		"Cidade": "Erechim",
+		"Estado": "RS",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ERN",
+		"Icao": "SWEI",
+		"Aeroporto": "Eirunepé Airport",
+		"Cidade": "Eirunepe",
+		"Estado": "AM",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FBA",
+		"Icao": "SWOB",
+		"Aeroporto": "Fonte Boa Airport",
+		"Cidade": "Fonte Boa",
+		"Estado": "AM",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FBE",
+		"Icao": "SSFB",
+		"Aeroporto": "Francisco Beltrão Airport",
+		"Cidade": "Francisco Beltrao",
+		"Estado": "PR",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FEN",
+		"Icao": "SBFN",
+		"Aeroporto": "Fernando de Noronha Airport",
+		"Cidade": "Fernando Do Noronha",
+		"Estado": "PE",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FLB",
+		"Icao": "SNQG",
+		"Aeroporto": "Cangapara Airport",
+		"Cidade": "Floriano",
+		"Estado": "PI",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FLN",
+		"Icao": "SBFL",
+		"Aeroporto": "Hercílio Luz International Airport",
+		"Cidade": "Florianopolis",
+		"Estado": "SC",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FOR",
+		"Icao": "SBFZ",
+		"Aeroporto": "Pinto Martins International Airport",
+		"Cidade": "Fortaleza",
+		"Estado": "CE",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "FRC",
+		"Icao": "SIMK",
+		"Aeroporto": "Franca Airport",
+		"Cidade": "Franca",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GEL",
+		"Icao": "SBNM",
+		"Aeroporto": "Santo Ângelo Airport",
+		"Cidade": "Santo Angelo",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GIG",
+		"Icao": "SBGL",
+		"Aeroporto": "Rio Galeão – Tom Jobim International Airport",
+		"Cidade": "Rio De Janeiro",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GNM",
+		"Icao": "SNGI",
+		"Aeroporto": "Guanambi Airport",
+		"Cidade": "Guanambi",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GPB",
+		"Icao": "SBGU",
+		"Aeroporto": "Tancredo Thomas de Faria Airport",
+		"Cidade": "Guarapuava",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GRP",
+		"Icao": "SWGI",
+		"Aeroporto": "Gurupi Airport",
+		"Cidade": "Gurupi",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GRU",
+		"Icao": "SBGR",
+		"Aeroporto": "Guarulhos – Governador André Franco Montoro International Airport",
+		"Cidade": "Sao Paulo",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GUZ",
+		"Icao": "SNGA",
+		"Aeroporto": "Guarapari Airport",
+		"Cidade": "Guarapari",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GVR",
+		"Icao": "SBGV",
+		"Aeroporto": "Coronel Altino Machado de Oliveira Airport",
+		"Cidade": "Governador Valadares",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "GYN",
+		"Icao": "SBGO",
+		"Aeroporto": "Santa Genoveva Airport",
+		"Cidade": "Goiania",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "HUW",
+		"Icao": "SWHT",
+		"Aeroporto": "Humaitá Airport",
+		"Cidade": "Humaita",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "IGU",
+		"Icao": "SBFI",
+		"Aeroporto": "Cataratas International Airport",
+		"Cidade": "Foz Do Iguacu",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "IMP",
+		"Icao": "SBIZ",
+		"Aeroporto": "Prefeito Renato Moreira Airport",
+		"Cidade": "Imperatriz",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "IOS",
+		"Icao": "SBIL",
+		"Aeroporto": "Bahia – Jorge Amado Airport",
+		"Cidade": "Ilheus",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "IPN",
+		"Icao": "SBIP",
+		"Aeroporto": "Usiminas Airport",
+		"Cidade": "Ipatinga",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "IRZ",
+		"Icao": "SWTP",
+		"Aeroporto": "Tapuruquara Airport\tSanta Isabel do",
+		"Cidade": "Rio Negro",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ITB",
+		"Icao": "SBIH",
+		"Aeroporto": "Itaituba Airport",
+		"Cidade": "Itaituba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ITP",
+		"Icao": "SDUN",
+		"Aeroporto": "Itaperuna Airport",
+		"Cidade": "Itaperuna",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "IZA",
+		"Icao": "SDZY",
+		"Aeroporto": "Zona da Mata Regional Airport",
+		"Cidade": "Juiz de Fora",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JCB",
+		"Icao": "SSJA",
+		"Aeroporto": "Santa Terezinha Airport",
+		"Cidade": "Joacaba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JDF",
+		"Icao": "SBJF",
+		"Aeroporto": "Francisco de Assis Airport",
+		"Cidade": "Juiz De Fora",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JDO",
+		"Icao": "SBJU",
+		"Aeroporto": "Orlando Bezerra de Menezes Airport",
+		"Cidade": "Juazeiro Do Norte",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JIA",
+		"Icao": "SWJN",
+		"Aeroporto": "Juína Airport",
+		"Cidade": "Juina",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JJD",
+		"Icao": "SSVV",
+		"Aeroporto": "Comandante Ariston Pessoa Airport",
+		"Cidade": "Jericoacoara",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JOI",
+		"Icao": "SBJV",
+		"Aeroporto": "Lauro Carneiro de Loyola Airport",
+		"Cidade": "Joinville",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JPA",
+		"Icao": "SBJP",
+		"Aeroporto": "Presidente Castro Pinto International Airport",
+		"Cidade": "Joao Pessoa",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JPR",
+		"Icao": "SWJI",
+		"Aeroporto": "Ji-Paraná Airport",
+		"Cidade": "Ji-Paraná",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JRN",
+		"Icao": "SWJU",
+		"Aeroporto": "Juruena Airport",
+		"Cidade": "Juruena",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JTC",
+		"Icao": "SJTC",
+		"Aeroporto": "Bauru – Arealva Airport",
+		"Cidade": "Bauru",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "JUA",
+		"Icao": "SIZX",
+		"Aeroporto": "Inácio Luís do Nascimento Airport",
+		"Cidade": "Juara",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "LAZ",
+		"Icao": "SBLP",
+		"Aeroporto": "Bom Jesus da Lapa Airport",
+		"Cidade": "Bom Jesus Da Lapa",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "LBR",
+		"Icao": "SWLB",
+		"Aeroporto": "Lábrea Airport",
+		"Cidade": "Labrea",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "LDB",
+		"Icao": "SBLO",
+		"Aeroporto": "Governador José Richa Airport",
+		"Cidade": "Londrina",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "LEC",
+		"Icao": "SBLE",
+		"Aeroporto": "Coronel Horácio de Mattos Airport",
+		"Cidade": "Lençóis",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "LIP",
+		"Icao": "SBLN",
+		"Aeroporto": "Lins Airport",
+		"Cidade": "Lins",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "LVR",
+		"Icao": "SWFE",
+		"Aeroporto": "Fazenda Colen Airport",
+		"Cidade": "Lucas do Rio Verde",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MAB",
+		"Icao": "SBMA",
+		"Aeroporto": "João Correa da Rocha Airport",
+		"Cidade": "Maraba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MAO",
+		"Icao": "SBEG",
+		"Aeroporto": "Eduardo Gomes International Airport",
+		"Cidade": "Manaus",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MBZ",
+		"Icao": "SWMW",
+		"Aeroporto": "Maués Airport",
+		"Cidade": "Maues",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MCP",
+		"Icao": "SBMQ",
+		"Aeroporto": "Alberto Alcolumbre Airport",
+		"Cidade": "Macapa",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MCZ",
+		"Icao": "SBMO",
+		"Aeroporto": "Zumbi dos Palmares Airport",
+		"Cidade": "Maceio",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MEA",
+		"Icao": "SBME",
+		"Aeroporto": "Macaé Airport",
+		"Cidade": "Macaé",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MGF",
+		"Icao": "SBMG",
+		"Aeroporto": "Regional de Maringá – Sílvio Nane Junior Airport",
+		"Cidade": "Maringa",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MII",
+		"Icao": "SBML",
+		"Aeroporto": "Frank Miloye Milenkowichi–Marília State Airport",
+		"Cidade": "Marília",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MNX",
+		"Icao": "SBMY",
+		"Aeroporto": "Manicoré Airport",
+		"Cidade": "Manicore",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MOC",
+		"Icao": "SBMK",
+		"Aeroporto": "Mário Ribeiro Airport",
+		"Cidade": "Montes Claros",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MQH",
+		"Icao": "SBMC",
+		"Aeroporto": "Minaçu Airport",
+		"Cidade": "Minacu",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MVF",
+		"Icao": "SBMS",
+		"Aeroporto": "Dix-Sept Rosado Airport",
+		"Cidade": "Mocord",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "MVS",
+		"Icao": "SNMU",
+		"Aeroporto": "Mucuri Airport",
+		"Cidade": "Mucuri",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "NAT",
+		"Icao": "SBSG",
+		"Aeroporto": "Governador Aluízio Alves International Airport",
+		"Cidade": "Natal",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "NVP",
+		"Icao": "SWNA",
+		"Aeroporto": "Novo Aripuanã Airport",
+		"Cidade": "Novo Aripuana",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "NVT",
+		"Icao": "SBNF",
+		"Aeroporto": "Ministro Victor Konder International Airport",
+		"Cidade": "Navegantes",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "OAL",
+		"Icao": "SSKW",
+		"Aeroporto": "Cacoal Airport",
+		"Cidade": "Cacoal",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "OIA",
+		"Icao": "SDOW",
+		"Aeroporto": "Ourilândia do Norte Airport",
+		"Cidade": "Ourilandia do Norte",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "OLC",
+		"Icao": "SDCG",
+		"Aeroporto": "Senadora Eunice Micheles Airport",
+		"Cidade": "Sao Paulo de Olivenca",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "OPS",
+		"Icao": "SWSI",
+		"Aeroporto": "Presidente João Batista Figueiredo Airport",
+		"Cidade": "Sinop",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ORX",
+		"Icao": "SNOX",
+		"Aeroporto": "Oriximiná Airport",
+		"Cidade": "Oriximina",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PAV",
+		"Icao": "SBUF",
+		"Aeroporto": "Paulo Afonso Airport",
+		"Cidade": "Paulo Alfonso",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PCS",
+		"Icao": "SNPC",
+		"Aeroporto": "Picos Airport",
+		"Cidade": "Picos",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PET",
+		"Icao": "SBPK",
+		"Aeroporto": "João Simões Lopes Neto International Airport",
+		"Cidade": "Pelotas",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PFB",
+		"Icao": "SBPF",
+		"Aeroporto": "Lauro Kurtz Airport",
+		"Cidade": "Passo Fundo",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PIN",
+		"Icao": "SWPI",
+		"Aeroporto": "Parintins Airport",
+		"Cidade": "Parintins",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PLL",
+		"Icao": "SBMN",
+		"Aeroporto": "Ponta Pelada Airport",
+		"Cidade": "Manaus",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PLU",
+		"Icao": "SBBH",
+		"Aeroporto": "Pampulha – Carlos Drummond de Andrade Airport",
+		"Cidade": "Belo Horizonte",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PMG",
+		"Icao": "SBPP",
+		"Aeroporto": "Ponta Porã Airport",
+		"Cidade": "Ponta Pora",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PMW",
+		"Icao": "SBPJ",
+		"Aeroporto": "Brigadeiro Lysias Rodrigues Airport",
+		"Cidade": "Palmas",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PNB",
+		"Icao": "SBPN",
+		"Aeroporto": "Porto Nacional Airport",
+		"Cidade": "Porto Nacional",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PNZ",
+		"Icao": "SBPL",
+		"Aeroporto": "Senador Nilo Coelho Airport",
+		"Cidade": "Petrolina",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "POA",
+		"Icao": "SBPA",
+		"Aeroporto": "Salgado Filho Airport",
+		"Cidade": "Porto Alegre",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "POJ",
+		"Icao": "SNPD",
+		"Aeroporto": "Patos de Minas Airport",
+		"Cidade": "Patos de Minas",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "POO",
+		"Icao": "SBPC",
+		"Aeroporto": "Poços de Caldas – Embaixador Walther Moreira Salles Airport",
+		"Cidade": "Pocos De Caldas",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PPB",
+		"Icao": "SBDN",
+		"Aeroporto": "Presidente Prudente Airport",
+		"Cidade": "President Prudente",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PPY",
+		"Icao": "SNZA",
+		"Aeroporto": "Pouso Alegre Airport",
+		"Cidade": "Pouso Alegre",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "PVH",
+		"Icao": "SBPV",
+		"Aeroporto": "Governador Jorge Teixeira de Oliveira Airport",
+		"Cidade": "Porto Velho",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "QBX",
+		"Icao": "SNOB",
+		"Aeroporto": "Sobral Airport",
+		"Cidade": "Sobral",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "QCJ",
+		"Icao": "SDBK",
+		"Aeroporto": "Botucatu – Tancredo de Almeida Neves Airport",
+		"Cidade": "Botucatu",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "QHP",
+		"Icao": "SBTA",
+		"Aeroporto": "Base de Aviação de Taubaté Airport",
+		"Cidade": "Taubaté",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "QNV",
+		"Icao": "SDNY",
+		"Aeroporto": "Aeroclube Airport",
+		"Cidade": "Nova Iguacu",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "QPS",
+		"Icao": "SBYS",
+		"Aeroporto": "Campo Fontenelle Airport",
+		"Cidade": "Piracununga",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "QSC",
+		"Icao": "SDSC",
+		"Aeroporto": "São Carlos Airport",
+		"Cidade": "Sao Carlos",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "RAO",
+		"Icao": "SBRP",
+		"Aeroporto": "Leite Lopes Airport",
+		"Cidade": "Ribeirao Preto",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "RBB",
+		"Icao": "SWBR",
+		"Aeroporto": "Borba Airport",
+		"Cidade": "Borba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "RBR",
+		"Icao": "SBRB",
+		"Aeroporto": "Plácido de Castro Airport",
+		"Cidade": "Rio Branco",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "RDC",
+		"Icao": "SNDC",
+		"Aeroporto": "Redenção Airport",
+		"Cidade": "Redencao",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "REC",
+		"Icao": "SBRF",
+		"Aeroporto": "Guararapes – Gilberto Freyre International Airport",
+		"Cidade": "Recife",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "RIA",
+		"Icao": "SBSM",
+		"Aeroporto": "Santa Maria Airport",
+		"Cidade": "Santa Maria",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "ROO",
+		"Icao": "SWRD",
+		"Aeroporto": "Maestro Marinho Franco Airport",
+		"Cidade": "Rondonopolis",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "RVD",
+		"Icao": "SWLC",
+		"Aeroporto": "General Leite de Castro Airport",
+		"Cidade": "Rio Verde",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SDU",
+		"Icao": "SBRJ",
+		"Aeroporto": "Santos Dumont Airport",
+		"Cidade": "Rio De Janeiro",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SFK",
+		"Icao": "SNSW",
+		"Aeroporto": "Soure Airport",
+		"Cidade": "Soure",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SJK",
+		"Icao": "SBSJ",
+		"Aeroporto": "Professor Urbano Ernesto Stumpf Airport",
+		"Cidade": "Sao Jose Dos Campos",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SJL",
+		"Icao": "SBUA",
+		"Aeroporto": "São Gabriel da Cachoeira Airport",
+		"Cidade": "Sao Gabriel",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SJP",
+		"Icao": "SBSR",
+		"Aeroporto": "Prof. Eribelto Manoel Reino State Airport",
+		"Cidade": "Sao Jose Do Rio Preto",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SLZ",
+		"Icao": "SBSL",
+		"Aeroporto": "Marechal Cunha Machado International Airport",
+		"Cidade": "Sao Luis",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SOD",
+		"Icao": "SDCO",
+		"Aeroporto": "Sorocaba Airport",
+		"Cidade": "Sorocaba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SQX",
+		"Icao": "SSOE",
+		"Aeroporto": "São Miguel do Oeste Airport",
+		"Cidade": "Sao Miguel do Oeste",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SRA",
+		"Icao": "SSZR",
+		"Aeroporto": "Santa Rosa Airport",
+		"Cidade": "Santa Rosa",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SSA",
+		"Icao": "SBSV",
+		"Aeroporto": "Deputado Luiz Eduardo Magalhães International Airport",
+		"Cidade": "Salvador",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SSZ",
+		"Icao": "SBST",
+		"Aeroporto": "Base Aérea de Santos Airport",
+		"Cidade": "Santos",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "STM",
+		"Icao": "SBSN",
+		"Aeroporto": "Maestro Wilson Fonseca Airport",
+		"Cidade": "Santarem",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "STU",
+		"Icao": "SBSC",
+		"Aeroporto": "Santa Cruz Airport",
+		"Cidade": "Rio De Janeiro",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "STZ",
+		"Icao": "SWST",
+		"Aeroporto": "Santa Terezinha Airport",
+		"Cidade": "Santa Terezinha",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SXO",
+		"Icao": "SWFX",
+		"Aeroporto": "São Félix do Araguaia Airport",
+		"Cidade": "Sao Felix do Araguaia",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "SXX",
+		"Icao": "SNFX",
+		"Aeroporto": "São Félix do Xingu Airport",
+		"Cidade": "Sao Felix do Xingu",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TBT",
+		"Icao": "SBTT",
+		"Aeroporto": "Tabatinga Airport",
+		"Cidade": "Tabatinga",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TFF",
+		"Icao": "SBTF",
+		"Aeroporto": "Tefé Airport",
+		"Cidade": "Tefe",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TFL",
+		"Icao": "SNTO",
+		"Aeroporto": "Juscelino Kubitscheck Airport",
+		"Cidade": "Teofilo Otoni",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "THE",
+		"Icao": "SBTE",
+		"Aeroporto": "Senador Petrônio Portela Airport",
+		"Cidade": "Teresina",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TJL",
+		"Icao": "SSTL",
+		"Aeroporto": "Plínio Alarcom Airport",
+		"Cidade": "Tres Lagoas",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TMT",
+		"Icao": "SBTB",
+		"Aeroporto": "Trombetas Airport",
+		"Cidade": "Oriximina",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TOW",
+		"Icao": "SBTD",
+		"Aeroporto": "Toledo Airport",
+		"Cidade": "Toledo",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "TUR",
+		"Icao": "SBTU",
+		"Aeroporto": "Tucuruí Airport",
+		"Cidade": "Tucurui",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "UBA",
+		"Icao": "SBUR",
+		"Aeroporto": "Mário de Almeida Franco Airport",
+		"Cidade": "Uberaba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "UBT",
+		"Icao": "SDUB",
+		"Aeroporto": "Ubatuba Airport",
+		"Cidade": "Ubatuba",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "UDI",
+		"Icao": "SBUL",
+		"Aeroporto": "Ten. Cel. Aviador César Bombonato Airport",
+		"Cidade": "Uberlandia",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "UMU",
+		"Icao": "SSUM",
+		"Aeroporto": "Umuarama Airport",
+		"Cidade": "Umuarama",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "UNA",
+		"Icao": "SBTC",
+		"Aeroporto": "Hotel Transamérica Airport",
+		"Cidade": "Una",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "URG",
+		"Icao": "SBUG",
+		"Aeroporto": "Rubem Berta Airport",
+		"Cidade": "Uruguaiana",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "VAG",
+		"Icao": "SBVG",
+		"Aeroporto": "Major Brigadeiro Trompowsky Airport",
+		"Cidade": "Varginha",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "VAL",
+		"Icao": "SNVB",
+		"Aeroporto": "Valença Airport",
+		"Cidade": "Valenca",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "VCP",
+		"Icao": "SBKP",
+		"Aeroporto": "Viracopos International Airport",
+		"Cidade": "Campinas",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "VDC",
+		"Icao": "SBQV",
+		"Aeroporto": "Vitória da Conquista Airport",
+		"Cidade": "Vitória Da Conquista",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "VIX",
+		"Icao": "SBVT",
+		"Aeroporto": "Eurico de Aguiar Salles Airport",
+		"Cidade": "Vitoria",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "VLP",
+		"Icao": "SWVC",
+		"Aeroporto": "Vila Rica Airport",
+		"Cidade": "Vila Rica",
+		"Estado": "",
+		"Pais": "BR"
+	},
+	{
+		"Iata": "XAP",
+		"Icao": "SBCH",
+		"Aeroporto": "Serafin Enoss Bertaso Airport",
+		"Cidade": "Chapeco",
+		"Estado": "",
+		"Pais": "BR"
+	}
+]

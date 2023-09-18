@@ -1,0 +1,25 @@
+version: "3"
+
+services:  
+  api-abst_ai-homolog:
+    image: $REGISTRY
+    logging:
+      driver: "json-file"
+      options:
+         max-file: 1
+         max-size: 10m   
+    hostname: apiuraabasteceaihomolog
+    ports:
+     - "7551:80" 
+    volumes:
+      - "/etc/localtime:/etc/localtime:ro"
+    networks:
+     - rede_api_abastece_ai
+    deploy:
+      placement:
+        constraints:
+        - node.role == manager
+
+networks:
+  rede_api_abastece_ai:
+    driver: overlay
