@@ -516,7 +516,7 @@
 		"Icao": "SIMK",
 		"Aeroporto": "Franca Airport",
 		"Cidade": "Franca",
-		"Estado": "",
+		"Estado": "SP",
 		"Pais": "BR"
 	},
 	{
@@ -524,7 +524,7 @@
 		"Icao": "SBNM",
 		"Aeroporto": "Santo Ângelo Airport",
 		"Cidade": "Santo Angelo",
-		"Estado": "",
+		"Estado": "RS",
 		"Pais": "BR"
 	},
 	{
@@ -532,7 +532,7 @@
 		"Icao": "SBGL",
 		"Aeroporto": "Rio Galeão – Tom Jobim International Airport",
 		"Cidade": "Rio De Janeiro",
-		"Estado": "",
+		"Estado": "RJ",
 		"Pais": "BR"
 	},
 	{
@@ -540,7 +540,7 @@
 		"Icao": "SNGI",
 		"Aeroporto": "Guanambi Airport",
 		"Cidade": "Guanambi",
-		"Estado": "",
+		"Estado": "BA",
 		"Pais": "BR"
 	},
 	{
@@ -548,7 +548,7 @@
 		"Icao": "SBGU",
 		"Aeroporto": "Tancredo Thomas de Faria Airport",
 		"Cidade": "Guarapuava",
-		"Estado": "",
+		"Estado": "PR",
 		"Pais": "BR"
 	},
 	{
@@ -556,7 +556,7 @@
 		"Icao": "SWGI",
 		"Aeroporto": "Gurupi Airport",
 		"Cidade": "Gurupi",
-		"Estado": "",
+		"Estado": "TO", // Tocantins
 		"Pais": "BR"
 	},
 	{
@@ -564,7 +564,7 @@
 		"Icao": "SBGR",
 		"Aeroporto": "Guarulhos – Governador André Franco Montoro International Airport",
 		"Cidade": "Sao Paulo",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -572,7 +572,7 @@
 		"Icao": "SNGA",
 		"Aeroporto": "Guarapari Airport",
 		"Cidade": "Guarapari",
-		"Estado": "",
+		"Estado": "ES", // Espírito Santo
 		"Pais": "BR"
 	},
 	{
@@ -580,7 +580,7 @@
 		"Icao": "SBGV",
 		"Aeroporto": "Coronel Altino Machado de Oliveira Airport",
 		"Cidade": "Governador Valadares",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -588,7 +588,7 @@
 		"Icao": "SBGO",
 		"Aeroporto": "Santa Genoveva Airport",
 		"Cidade": "Goiania",
-		"Estado": "",
+		"Estado": "GO", // Goiás
 		"Pais": "BR"
 	},
 	{
@@ -596,7 +596,7 @@
 		"Icao": "SWHT",
 		"Aeroporto": "Humaitá Airport",
 		"Cidade": "Humaita",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -604,7 +604,7 @@
 		"Icao": "SBFI",
 		"Aeroporto": "Cataratas International Airport",
 		"Cidade": "Foz Do Iguacu",
-		"Estado": "",
+		"Estado": "PR", // Paraná
 		"Pais": "BR"
 	},
 	{
@@ -612,7 +612,7 @@
 		"Icao": "SBIZ",
 		"Aeroporto": "Prefeito Renato Moreira Airport",
 		"Cidade": "Imperatriz",
-		"Estado": "",
+		"Estado": "MA", // Maranhão
 		"Pais": "BR"
 	},
 	{
@@ -620,7 +620,7 @@
 		"Icao": "SBIL",
 		"Aeroporto": "Bahia – Jorge Amado Airport",
 		"Cidade": "Ilheus",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -628,7 +628,7 @@
 		"Icao": "SBIP",
 		"Aeroporto": "Usiminas Airport",
 		"Cidade": "Ipatinga",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -636,7 +636,7 @@
 		"Icao": "SWTP",
 		"Aeroporto": "Tapuruquara Airport\tSanta Isabel do",
 		"Cidade": "Rio Negro",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -644,7 +644,7 @@
 		"Icao": "SBIH",
 		"Aeroporto": "Itaituba Airport",
 		"Cidade": "Itaituba",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -652,7 +652,7 @@
 		"Icao": "SDUN",
 		"Aeroporto": "Itaperuna Airport",
 		"Cidade": "Itaperuna",
-		"Estado": "",
+		"Estado": "RJ", // Rio de Janeiro
 		"Pais": "BR"
 	},
 	{
@@ -660,7 +660,7 @@
 		"Icao": "SDZY",
 		"Aeroporto": "Zona da Mata Regional Airport",
 		"Cidade": "Juiz de Fora",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -668,7 +668,7 @@
 		"Icao": "SSJA",
 		"Aeroporto": "Santa Terezinha Airport",
 		"Cidade": "Joacaba",
-		"Estado": "",
+		"Estado": "SC", // Santa Catarina
 		"Pais": "BR"
 	},
 	{
@@ -676,7 +676,7 @@
 		"Icao": "SBJF",
 		"Aeroporto": "Francisco de Assis Airport",
 		"Cidade": "Juiz De Fora",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -684,7 +684,7 @@
 		"Icao": "SBJU",
 		"Aeroporto": "Orlando Bezerra de Menezes Airport",
 		"Cidade": "Juazeiro Do Norte",
-		"Estado": "",
+		"Estado": "CE", // Ceará
 		"Pais": "BR"
 	},
 	{
@@ -692,7 +692,7 @@
 		"Icao": "SWJN",
 		"Aeroporto": "Juína Airport",
 		"Cidade": "Juina",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -700,7 +700,7 @@
 		"Icao": "SSVV",
 		"Aeroporto": "Comandante Ariston Pessoa Airport",
 		"Cidade": "Jericoacoara",
-		"Estado": "",
+		"Estado": "CE", // Ceará
 		"Pais": "BR"
 	},
 	{
@@ -708,7 +708,7 @@
 		"Icao": "SBJV",
 		"Aeroporto": "Lauro Carneiro de Loyola Airport",
 		"Cidade": "Joinville",
-		"Estado": "",
+		"Estado": "SC", // Santa Catarina
 		"Pais": "BR"
 	},
 	{
@@ -716,7 +716,7 @@
 		"Icao": "SBJP",
 		"Aeroporto": "Presidente Castro Pinto International Airport",
 		"Cidade": "Joao Pessoa",
-		"Estado": "",
+		"Estado": "PB", // Paraíba
 		"Pais": "BR"
 	},
 	{
@@ -724,7 +724,7 @@
 		"Icao": "SWJI",
 		"Aeroporto": "Ji-Paraná Airport",
 		"Cidade": "Ji-Paraná",
-		"Estado": "",
+		"Estado": "RO", // Rondônia
 		"Pais": "BR"
 	},
 	{
@@ -732,7 +732,7 @@
 		"Icao": "SWJU",
 		"Aeroporto": "Juruena Airport",
 		"Cidade": "Juruena",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -740,7 +740,7 @@
 		"Icao": "SJTC",
 		"Aeroporto": "Bauru – Arealva Airport",
 		"Cidade": "Bauru",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -748,7 +748,7 @@
 		"Icao": "SIZX",
 		"Aeroporto": "Inácio Luís do Nascimento Airport",
 		"Cidade": "Juara",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -756,7 +756,7 @@
 		"Icao": "SBLP",
 		"Aeroporto": "Bom Jesus da Lapa Airport",
 		"Cidade": "Bom Jesus Da Lapa",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -764,7 +764,7 @@
 		"Icao": "SWLB",
 		"Aeroporto": "Lábrea Airport",
 		"Cidade": "Labrea",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -772,7 +772,7 @@
 		"Icao": "SBLO",
 		"Aeroporto": "Governador José Richa Airport",
 		"Cidade": "Londrina",
-		"Estado": "",
+		"Estado": "PR", // Paraná
 		"Pais": "BR"
 	},
 	{
@@ -780,7 +780,7 @@
 		"Icao": "SBLE",
 		"Aeroporto": "Coronel Horácio de Mattos Airport",
 		"Cidade": "Lençóis",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -788,7 +788,7 @@
 		"Icao": "SBLN",
 		"Aeroporto": "Lins Airport",
 		"Cidade": "Lins",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -796,7 +796,7 @@
 		"Icao": "SWFE",
 		"Aeroporto": "Fazenda Colen Airport",
 		"Cidade": "Lucas do Rio Verde",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -804,7 +804,7 @@
 		"Icao": "SBMA",
 		"Aeroporto": "João Correa da Rocha Airport",
 		"Cidade": "Maraba",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -812,7 +812,7 @@
 		"Icao": "SBEG",
 		"Aeroporto": "Eduardo Gomes International Airport",
 		"Cidade": "Manaus",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -820,7 +820,7 @@
 		"Icao": "SWMW",
 		"Aeroporto": "Maués Airport",
 		"Cidade": "Maues",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -828,7 +828,7 @@
 		"Icao": "SBMQ",
 		"Aeroporto": "Alberto Alcolumbre Airport",
 		"Cidade": "Macapa",
-		"Estado": "",
+		"Estado": "AP", // Amapá
 		"Pais": "BR"
 	},
 	{
@@ -836,7 +836,7 @@
 		"Icao": "SBMO",
 		"Aeroporto": "Zumbi dos Palmares Airport",
 		"Cidade": "Maceio",
-		"Estado": "",
+		"Estado": "AL", // Alagoas
 		"Pais": "BR"
 	},
 	{
@@ -844,7 +844,7 @@
 		"Icao": "SBME",
 		"Aeroporto": "Macaé Airport",
 		"Cidade": "Macaé",
-		"Estado": "",
+		"Estado": "RJ", // Rio de Janeiro
 		"Pais": "BR"
 	},
 	{
@@ -852,7 +852,7 @@
 		"Icao": "SBMG",
 		"Aeroporto": "Regional de Maringá – Sílvio Nane Junior Airport",
 		"Cidade": "Maringa",
-		"Estado": "",
+		"Estado": "PR", // Paraná
 		"Pais": "BR"
 	},
 	{
@@ -860,7 +860,7 @@
 		"Icao": "SBML",
 		"Aeroporto": "Frank Miloye Milenkowichi–Marília State Airport",
 		"Cidade": "Marília",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -868,7 +868,7 @@
 		"Icao": "SBMY",
 		"Aeroporto": "Manicoré Airport",
 		"Cidade": "Manicore",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -876,7 +876,7 @@
 		"Icao": "SBMK",
 		"Aeroporto": "Mário Ribeiro Airport",
 		"Cidade": "Montes Claros",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -884,15 +884,15 @@
 		"Icao": "SBMC",
 		"Aeroporto": "Minaçu Airport",
 		"Cidade": "Minacu",
-		"Estado": "",
+		"Estado": "GO", // Goiás
 		"Pais": "BR"
 	},
 	{
 		"Iata": "MVF",
 		"Icao": "SBMS",
 		"Aeroporto": "Dix-Sept Rosado Airport",
-		"Cidade": "Mocord",
-		"Estado": "",
+		"Cidade": "Mossoró",
+		"Estado": "RN", // Rio Grande do Norte
 		"Pais": "BR"
 	},
 	{
@@ -900,7 +900,7 @@
 		"Icao": "SNMU",
 		"Aeroporto": "Mucuri Airport",
 		"Cidade": "Mucuri",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -908,7 +908,7 @@
 		"Icao": "SBSG",
 		"Aeroporto": "Governador Aluízio Alves International Airport",
 		"Cidade": "Natal",
-		"Estado": "",
+		"Estado": "RN", // Rio Grande do Norte
 		"Pais": "BR"
 	},
 	{
@@ -916,7 +916,7 @@
 		"Icao": "SWNA",
 		"Aeroporto": "Novo Aripuanã Airport",
 		"Cidade": "Novo Aripuana",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -924,7 +924,7 @@
 		"Icao": "SBNF",
 		"Aeroporto": "Ministro Victor Konder International Airport",
 		"Cidade": "Navegantes",
-		"Estado": "",
+		"Estado": "SC", // Santa Catarina
 		"Pais": "BR"
 	},
 	{
@@ -932,7 +932,7 @@
 		"Icao": "SSKW",
 		"Aeroporto": "Cacoal Airport",
 		"Cidade": "Cacoal",
-		"Estado": "",
+		"Estado": "RO", // Rondônia
 		"Pais": "BR"
 	},
 	{
@@ -940,7 +940,7 @@
 		"Icao": "SDOW",
 		"Aeroporto": "Ourilândia do Norte Airport",
 		"Cidade": "Ourilandia do Norte",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -948,7 +948,7 @@
 		"Icao": "SDCG",
 		"Aeroporto": "Senadora Eunice Micheles Airport",
 		"Cidade": "Sao Paulo de Olivenca",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -956,7 +956,7 @@
 		"Icao": "SWSI",
 		"Aeroporto": "Presidente João Batista Figueiredo Airport",
 		"Cidade": "Sinop",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -964,7 +964,7 @@
 		"Icao": "SNOX",
 		"Aeroporto": "Oriximiná Airport",
 		"Cidade": "Oriximina",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -972,7 +972,7 @@
 		"Icao": "SBUF",
 		"Aeroporto": "Paulo Afonso Airport",
 		"Cidade": "Paulo Alfonso",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -980,7 +980,7 @@
 		"Icao": "SNPC",
 		"Aeroporto": "Picos Airport",
 		"Cidade": "Picos",
-		"Estado": "",
+		"Estado": "PI", // Piauí
 		"Pais": "BR"
 	},
 	{
@@ -988,7 +988,7 @@
 		"Icao": "SBPK",
 		"Aeroporto": "João Simões Lopes Neto International Airport",
 		"Cidade": "Pelotas",
-		"Estado": "",
+		"Estado": "RS", // Rio Grande do Sul
 		"Pais": "BR"
 	},
 	{
@@ -996,7 +996,7 @@
 		"Icao": "SBPF",
 		"Aeroporto": "Lauro Kurtz Airport",
 		"Cidade": "Passo Fundo",
-		"Estado": "",
+		"Estado": "RS", // Rio Grande do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1004,7 +1004,7 @@
 		"Icao": "SWPI",
 		"Aeroporto": "Parintins Airport",
 		"Cidade": "Parintins",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -1012,7 +1012,7 @@
 		"Icao": "SBMN",
 		"Aeroporto": "Ponta Pelada Airport",
 		"Cidade": "Manaus",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -1020,7 +1020,7 @@
 		"Icao": "SBBH",
 		"Aeroporto": "Pampulha – Carlos Drummond de Andrade Airport",
 		"Cidade": "Belo Horizonte",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1028,7 +1028,7 @@
 		"Icao": "SBPP",
 		"Aeroporto": "Ponta Porã Airport",
 		"Cidade": "Ponta Pora",
-		"Estado": "",
+		"Estado": "MS", // Mato Grosso do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1036,7 +1036,7 @@
 		"Icao": "SBPJ",
 		"Aeroporto": "Brigadeiro Lysias Rodrigues Airport",
 		"Cidade": "Palmas",
-		"Estado": "",
+		"Estado": "TO", // Tocantins
 		"Pais": "BR"
 	},
 	{
@@ -1044,7 +1044,7 @@
 		"Icao": "SBPN",
 		"Aeroporto": "Porto Nacional Airport",
 		"Cidade": "Porto Nacional",
-		"Estado": "",
+		"Estado": "TO", // Tocantins
 		"Pais": "BR"
 	},
 	{
@@ -1052,7 +1052,7 @@
 		"Icao": "SBPL",
 		"Aeroporto": "Senador Nilo Coelho Airport",
 		"Cidade": "Petrolina",
-		"Estado": "",
+		"Estado": "PE", // Pernambuco
 		"Pais": "BR"
 	},
 	{
@@ -1060,7 +1060,7 @@
 		"Icao": "SBPA",
 		"Aeroporto": "Salgado Filho Airport",
 		"Cidade": "Porto Alegre",
-		"Estado": "",
+		"Estado": "RS", // Rio Grande do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1068,7 +1068,7 @@
 		"Icao": "SNPD",
 		"Aeroporto": "Patos de Minas Airport",
 		"Cidade": "Patos de Minas",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1076,15 +1076,15 @@
 		"Icao": "SBPC",
 		"Aeroporto": "Poços de Caldas – Embaixador Walther Moreira Salles Airport",
 		"Cidade": "Pocos De Caldas",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
 		"Iata": "PPB",
 		"Icao": "SBDN",
 		"Aeroporto": "Presidente Prudente Airport",
-		"Cidade": "President Prudente",
-		"Estado": "",
+		"Cidade": "Presidente Prudente",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1092,7 +1092,7 @@
 		"Icao": "SNZA",
 		"Aeroporto": "Pouso Alegre Airport",
 		"Cidade": "Pouso Alegre",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1100,7 +1100,7 @@
 		"Icao": "SBPV",
 		"Aeroporto": "Governador Jorge Teixeira de Oliveira Airport",
 		"Cidade": "Porto Velho",
-		"Estado": "",
+		"Estado": "RO", // Rondônia
 		"Pais": "BR"
 	},
 	{
@@ -1108,7 +1108,7 @@
 		"Icao": "SNOB",
 		"Aeroporto": "Sobral Airport",
 		"Cidade": "Sobral",
-		"Estado": "",
+		"Estado": "CE", // Ceará
 		"Pais": "BR"
 	},
 	{
@@ -1116,7 +1116,7 @@
 		"Icao": "SDBK",
 		"Aeroporto": "Botucatu – Tancredo de Almeida Neves Airport",
 		"Cidade": "Botucatu",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1124,7 +1124,7 @@
 		"Icao": "SBTA",
 		"Aeroporto": "Base de Aviação de Taubaté Airport",
 		"Cidade": "Taubaté",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1132,7 +1132,7 @@
 		"Icao": "SDNY",
 		"Aeroporto": "Aeroclube Airport",
 		"Cidade": "Nova Iguacu",
-		"Estado": "",
+		"Estado": "RJ", // Rio de Janeiro
 		"Pais": "BR"
 	},
 	{
@@ -1140,7 +1140,7 @@
 		"Icao": "SBYS",
 		"Aeroporto": "Campo Fontenelle Airport",
 		"Cidade": "Piracununga",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1148,7 +1148,7 @@
 		"Icao": "SDSC",
 		"Aeroporto": "São Carlos Airport",
 		"Cidade": "Sao Carlos",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1156,7 +1156,7 @@
 		"Icao": "SBRP",
 		"Aeroporto": "Leite Lopes Airport",
 		"Cidade": "Ribeirao Preto",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1164,7 +1164,7 @@
 		"Icao": "SWBR",
 		"Aeroporto": "Borba Airport",
 		"Cidade": "Borba",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -1172,7 +1172,7 @@
 		"Icao": "SBRB",
 		"Aeroporto": "Plácido de Castro Airport",
 		"Cidade": "Rio Branco",
-		"Estado": "",
+		"Estado": "AC", // Acre
 		"Pais": "BR"
 	},
 	{
@@ -1180,7 +1180,7 @@
 		"Icao": "SNDC",
 		"Aeroporto": "Redenção Airport",
 		"Cidade": "Redencao",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -1188,7 +1188,7 @@
 		"Icao": "SBRF",
 		"Aeroporto": "Guararapes – Gilberto Freyre International Airport",
 		"Cidade": "Recife",
-		"Estado": "",
+		"Estado": "PE", // Pernambuco
 		"Pais": "BR"
 	},
 	{
@@ -1196,7 +1196,7 @@
 		"Icao": "SBSM",
 		"Aeroporto": "Santa Maria Airport",
 		"Cidade": "Santa Maria",
-		"Estado": "",
+		"Estado": "RS", // Rio Grande do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1204,7 +1204,7 @@
 		"Icao": "SWRD",
 		"Aeroporto": "Maestro Marinho Franco Airport",
 		"Cidade": "Rondonopolis",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -1212,7 +1212,7 @@
 		"Icao": "SWLC",
 		"Aeroporto": "General Leite de Castro Airport",
 		"Cidade": "Rio Verde",
-		"Estado": "",
+		"Estado": "GO", // Goiás
 		"Pais": "BR"
 	},
 	{
@@ -1220,7 +1220,7 @@
 		"Icao": "SBRJ",
 		"Aeroporto": "Santos Dumont Airport",
 		"Cidade": "Rio De Janeiro",
-		"Estado": "",
+		"Estado": "RJ", // Rio de Janeiro
 		"Pais": "BR"
 	},
 	{
@@ -1228,7 +1228,7 @@
 		"Icao": "SNSW",
 		"Aeroporto": "Soure Airport",
 		"Cidade": "Soure",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -1236,7 +1236,7 @@
 		"Icao": "SBSJ",
 		"Aeroporto": "Professor Urbano Ernesto Stumpf Airport",
 		"Cidade": "Sao Jose Dos Campos",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1244,7 +1244,7 @@
 		"Icao": "SBUA",
 		"Aeroporto": "São Gabriel da Cachoeira Airport",
 		"Cidade": "Sao Gabriel",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -1252,7 +1252,7 @@
 		"Icao": "SBSR",
 		"Aeroporto": "Prof. Eribelto Manoel Reino State Airport",
 		"Cidade": "Sao Jose Do Rio Preto",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1260,7 +1260,7 @@
 		"Icao": "SBSL",
 		"Aeroporto": "Marechal Cunha Machado International Airport",
 		"Cidade": "Sao Luis",
-		"Estado": "",
+		"Estado": "MA", // Maranhão
 		"Pais": "BR"
 	},
 	{
@@ -1268,7 +1268,7 @@
 		"Icao": "SDCO",
 		"Aeroporto": "Sorocaba Airport",
 		"Cidade": "Sorocaba",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1276,7 +1276,7 @@
 		"Icao": "SSOE",
 		"Aeroporto": "São Miguel do Oeste Airport",
 		"Cidade": "Sao Miguel do Oeste",
-		"Estado": "",
+		"Estado": "SC", // Santa Catarina
 		"Pais": "BR"
 	},
 	{
@@ -1284,7 +1284,7 @@
 		"Icao": "SSZR",
 		"Aeroporto": "Santa Rosa Airport",
 		"Cidade": "Santa Rosa",
-		"Estado": "",
+		"Estado": "RS", // Rio Grande do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1292,7 +1292,7 @@
 		"Icao": "SBSV",
 		"Aeroporto": "Deputado Luiz Eduardo Magalhães International Airport",
 		"Cidade": "Salvador",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -1300,7 +1300,7 @@
 		"Icao": "SBST",
 		"Aeroporto": "Base Aérea de Santos Airport",
 		"Cidade": "Santos",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1308,7 +1308,7 @@
 		"Icao": "SBSN",
 		"Aeroporto": "Maestro Wilson Fonseca Airport",
 		"Cidade": "Santarem",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -1316,7 +1316,7 @@
 		"Icao": "SBSC",
 		"Aeroporto": "Santa Cruz Airport",
 		"Cidade": "Rio De Janeiro",
-		"Estado": "",
+		"Estado": "RJ", // Rio de Janeiro
 		"Pais": "BR"
 	},
 	{
@@ -1324,7 +1324,7 @@
 		"Icao": "SWST",
 		"Aeroporto": "Santa Terezinha Airport",
 		"Cidade": "Santa Terezinha",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -1332,7 +1332,7 @@
 		"Icao": "SWFX",
 		"Aeroporto": "São Félix do Araguaia Airport",
 		"Cidade": "Sao Felix do Araguaia",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -1340,7 +1340,7 @@
 		"Icao": "SNFX",
 		"Aeroporto": "São Félix do Xingu Airport",
 		"Cidade": "Sao Felix do Xingu",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -1348,7 +1348,7 @@
 		"Icao": "SBTT",
 		"Aeroporto": "Tabatinga Airport",
 		"Cidade": "Tabatinga",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -1356,7 +1356,7 @@
 		"Icao": "SBTF",
 		"Aeroporto": "Tefé Airport",
 		"Cidade": "Tefe",
-		"Estado": "",
+		"Estado": "AM", // Amazonas
 		"Pais": "BR"
 	},
 	{
@@ -1364,7 +1364,7 @@
 		"Icao": "SNTO",
 		"Aeroporto": "Juscelino Kubitscheck Airport",
 		"Cidade": "Teofilo Otoni",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1372,7 +1372,7 @@
 		"Icao": "SBTE",
 		"Aeroporto": "Senador Petrônio Portela Airport",
 		"Cidade": "Teresina",
-		"Estado": "",
+		"Estado": "PI", // Piauí
 		"Pais": "BR"
 	},
 	{
@@ -1380,7 +1380,7 @@
 		"Icao": "SSTL",
 		"Aeroporto": "Plínio Alarcom Airport",
 		"Cidade": "Tres Lagoas",
-		"Estado": "",
+		"Estado": "MS", // Mato Grosso do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1388,7 +1388,7 @@
 		"Icao": "SBTB",
 		"Aeroporto": "Trombetas Airport",
 		"Cidade": "Oriximina",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -1396,7 +1396,7 @@
 		"Icao": "SBTD",
 		"Aeroporto": "Toledo Airport",
 		"Cidade": "Toledo",
-		"Estado": "",
+		"Estado": "PR", // Paraná
 		"Pais": "BR"
 	},
 	{
@@ -1404,7 +1404,7 @@
 		"Icao": "SBTU",
 		"Aeroporto": "Tucuruí Airport",
 		"Cidade": "Tucurui",
-		"Estado": "",
+		"Estado": "PA", // Pará
 		"Pais": "BR"
 	},
 	{
@@ -1412,7 +1412,7 @@
 		"Icao": "SBUR",
 		"Aeroporto": "Mário de Almeida Franco Airport",
 		"Cidade": "Uberaba",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1420,7 +1420,7 @@
 		"Icao": "SDUB",
 		"Aeroporto": "Ubatuba Airport",
 		"Cidade": "Ubatuba",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1428,7 +1428,7 @@
 		"Icao": "SBUL",
 		"Aeroporto": "Ten. Cel. Aviador César Bombonato Airport",
 		"Cidade": "Uberlandia",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1436,7 +1436,7 @@
 		"Icao": "SSUM",
 		"Aeroporto": "Umuarama Airport",
 		"Cidade": "Umuarama",
-		"Estado": "",
+		"Estado": "PR", // Paraná
 		"Pais": "BR"
 	},
 	{
@@ -1444,7 +1444,7 @@
 		"Icao": "SBTC",
 		"Aeroporto": "Hotel Transamérica Airport",
 		"Cidade": "Una",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -1452,7 +1452,7 @@
 		"Icao": "SBUG",
 		"Aeroporto": "Rubem Berta Airport",
 		"Cidade": "Uruguaiana",
-		"Estado": "",
+		"Estado": "RS", // Rio Grande do Sul
 		"Pais": "BR"
 	},
 	{
@@ -1460,7 +1460,7 @@
 		"Icao": "SBVG",
 		"Aeroporto": "Major Brigadeiro Trompowsky Airport",
 		"Cidade": "Varginha",
-		"Estado": "",
+		"Estado": "MG", // Minas Gerais
 		"Pais": "BR"
 	},
 	{
@@ -1468,7 +1468,7 @@
 		"Icao": "SNVB",
 		"Aeroporto": "Valença Airport",
 		"Cidade": "Valenca",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -1476,7 +1476,7 @@
 		"Icao": "SBKP",
 		"Aeroporto": "Viracopos International Airport",
 		"Cidade": "Campinas",
-		"Estado": "",
+		"Estado": "SP", // São Paulo
 		"Pais": "BR"
 	},
 	{
@@ -1484,7 +1484,7 @@
 		"Icao": "SBQV",
 		"Aeroporto": "Vitória da Conquista Airport",
 		"Cidade": "Vitória Da Conquista",
-		"Estado": "",
+		"Estado": "BA", // Bahia
 		"Pais": "BR"
 	},
 	{
@@ -1492,7 +1492,7 @@
 		"Icao": "SBVT",
 		"Aeroporto": "Eurico de Aguiar Salles Airport",
 		"Cidade": "Vitoria",
-		"Estado": "",
+		"Estado": "ES", // Espírito Santo
 		"Pais": "BR"
 	},
 	{
@@ -1500,7 +1500,7 @@
 		"Icao": "SWVC",
 		"Aeroporto": "Vila Rica Airport",
 		"Cidade": "Vila Rica",
-		"Estado": "",
+		"Estado": "MT", // Mato Grosso
 		"Pais": "BR"
 	},
 	{
@@ -1508,7 +1508,7 @@
 		"Icao": "SBCH",
 		"Aeroporto": "Serafin Enoss Bertaso Airport",
 		"Cidade": "Chapeco",
-		"Estado": "",
+		"Estado": "SC", // Santa Catarina
 		"Pais": "BR"
 	}
 ]
