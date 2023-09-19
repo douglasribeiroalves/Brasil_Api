@@ -16,12 +16,12 @@ namespace API.Interfaces
 
     public interface IGravaLogService
     {
-        Task<Boolean> GravarLogRequisicao(string metodo, RestResponse payload, NivelLog nivel);
+        Boolean GravarLogRequisicao(string metodo, RestResponse payload, NivelLog nivel);
 
-        Task<Boolean> GravarLogCidades(CidadeResponse cidade);
+        Boolean GravarLogCidades(CidadeResponse cidade);
 
-        Task<Boolean> GravarLogAeroportos(string metodo, RestResponse payload, string ucid, NivelLog nivel);
+        Boolean GravarLogAeroportos(AeroportoResponse aeroporto);
 
-        Task<Boolean> GravarLogError(ErrorResponse error, string mensagem);
+        Boolean GravarLogError(ErrorResponse error, string mensagem);
     }
 }

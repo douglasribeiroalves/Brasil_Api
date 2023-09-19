@@ -56,15 +56,14 @@ namespace API.Infrastructure
             return reader;
         }
 
-        public async Task<Boolean> ExecuteNonQuery(string commandText)
+        public Boolean ExecuteNonQuery(string commandText)
         {
             try
             {
                 OpenConnection();
                 SqlCommand command = new SqlCommand(commandText, _connection);
-                command.CommandTimeout = _timeoutCmd;
-                //command.Connection = _connection;
-                await command.ExecuteNonQueryAsync();
+                command.Connection = _connection;
+                command.ExecuteNonQuery();
                 return true;
             }
             catch (Exception)
@@ -73,7 +72,7 @@ namespace API.Infrastructure
             }
         }
 
-        public async Task<int> ExecuteInsert(SqlCommand command)
+        public int ExecuteInsert(SqlCommand command)
         {
             int id;
             try
@@ -81,7 +80,7 @@ namespace API.Infrastructure
                 command.CommandText += ";SELECT SCOPE_IDENTITY()";
                 OpenConnection();
                 command.Connection = _connection;
-                object resp = await command.ExecuteScalarAsync();
+                object resp = command.ExecuteScalarAsync();
                 id = int.Parse(resp.ToString());
             }
             catch (Exception)

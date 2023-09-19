@@ -38,7 +38,7 @@ namespace API.Services
         /// <returns></returns>
         public async Task<dynamic> CondicoesCidades(int idCidades)
         {
-            var result = await _apiService.ListarLocalidades(idCidades);
+            var result = await _apiService.ClimaCidades(idCidades);
             
             try
             {
@@ -57,7 +57,7 @@ namespace API.Services
 
                     _logger.LogInformation($"As condições na Cidade {retorno.Cidade} em {retorno.Clima[0].Data} são:");
 
-                    await _gravaLog.GravarLogCidades(retorno);
+                    _gravaLog.GravarLogCidades(retorno);
 
                     PrintLog(map);
 
@@ -71,7 +71,7 @@ namespace API.Services
 
                     MontaLogError(retorno, $"com o Id '{idCidades}'");
 
-                    await _gravaLog.GravarLogError(retorno, idCidades.ToString());
+                    _gravaLog.GravarLogError(retorno, idCidades.ToString());
 
                     return retorno;
                 }
@@ -80,7 +80,7 @@ namespace API.Services
             {
                 var retorno = new ErrorResponse(HttpStatusCode.InternalServerError, ex.Message.ToString(), "request_error", ex.Message.ToString());
                 MontaLogError(retorno, $"com o Id '{idCidades}'");
-                await _gravaLog.GravarLogError(retorno, idCidades.ToString());
+                _gravaLog.GravarLogError(retorno, idCidades.ToString());
                 return retorno;
             }
 
@@ -191,6 +191,8 @@ namespace API.Services
                     retorno.StatusCode = result.StatusCode;
 
                     MontaLogError(retorno, "");
+
+                    _gravaLog.GravarLogError(retorno, "");
 
                     return retorno;
 

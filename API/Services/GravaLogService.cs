@@ -20,24 +20,24 @@ namespace API.Services
             _gravaLog = new GravaLog(logger, options);
         }
 
-        public async Task<Boolean> GravarLogRequisicao(string metodo, RestResponse payload, NivelLog nivel)
+        public Boolean GravarLogRequisicao(string metodo, RestResponse payload, NivelLog nivel)
         {
-            return await _gravaLog.GravarLogRequisicao(metodo, payload, nivel);
+            return _gravaLog.GravarLogRequisicao(metodo, payload, nivel);
         }
 
-        public async Task<Boolean> GravarLogCidades(CidadeResponse cidade)
+        public Boolean GravarLogCidades(CidadeResponse cidade)
         {
-            return await _gravaLog.GravarLogCidades(cidade);
+            return _gravaLog.GravarLogCidades(cidade);
         }
 
-        public async Task<Boolean> GravarLogAeroportos(string metodo, RestResponse payload, string ucid, NivelLog nivel)
+        public Boolean GravarLogAeroportos(AeroportoResponse aeroporto)
         {
-            return await _gravaLog.GravarLogAeroportos(metodo, payload, ucid, nivel);
+            return _gravaLog.GravarLogAeroportos(aeroporto);
         }
 
-        public async Task<Boolean> GravarLogError(ErrorResponse error, string mensagem)
+        public Boolean GravarLogError(ErrorResponse error, string mensagem)
         {
-            return await _gravaLog.GravarLogError(error, mensagem);
+            return _gravaLog.GravarLogError(error, mensagem);
         }
     }
 }

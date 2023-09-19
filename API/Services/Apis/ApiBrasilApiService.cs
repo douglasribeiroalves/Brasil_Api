@@ -24,9 +24,9 @@ namespace API.Services.Apis
             _dadosBrasilApi = optionsBrasilApi.Value;
         }
 
-        public async Task<RestResponse> ListarLocalidades(int idCidades)
+        public async Task<RestResponse> ClimaCidades(int idCidades)
         {
-            _logger.LogInformation("Iniciando integrações no Endpoint 'ListarLocalidades'.");
+            _logger.LogInformation("Iniciando integrações no Endpoint 'ClimaCidades'.");
 
             RestResponse response = null;
 
@@ -45,13 +45,13 @@ namespace API.Services.Apis
 
                 _logger.LogInformation("Status Code: " + (int)response.StatusCode + " " + response.StatusCode.ToString());
 
-                GravaRequisicoes("ListarLocalidades", response, "");
+                GravaRequisicoes("ClimaCidades", response, "");
 
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Erro no endpoit 'ListarLocalidades': {ex.Message}");
-                GravaRequisicoes("ListarLocalidades", response, "falha");
+                _logger.LogError($"Erro no endpoit 'ClimaCidades': {ex.Message}");
+                GravaRequisicoes("ClimaCidades", response, "falha");
             }
 
             return response;
@@ -77,13 +77,13 @@ namespace API.Services.Apis
 
                 _logger.LogInformation("Status Code: " + (int)response.StatusCode + " " + response.StatusCode.ToString());
 
-                GravaRequisicoes("ListarLocalidades", response, "");
+                GravaRequisicoes("ListarCidades", response, "");
 
             }
             catch (Exception ex)
             {
                 _logger.LogError($"Erro no endpoit 'ListarCidades': {ex.Message}");
-                GravaRequisicoes("ListarLocalidades", response, "falha");
+                GravaRequisicoes("ListarCidades", response, "falha");
             }
 
             return response;
@@ -110,13 +110,13 @@ namespace API.Services.Apis
 
                 _logger.LogInformation("Status Code: " + (int)response.StatusCode + " " + response.StatusCode.ToString());
 
-                GravaRequisicoes("ListarLocalidades", response, "");
+                GravaRequisicoes("Aeroportos", response, "");
 
             }
             catch (Exception ex)
             {
                 _logger.LogError($"Erro no endpoit 'ListarAeroportos': {ex.Message}");
-                GravaRequisicoes("ListarLocalidades", response, "falha");
+                GravaRequisicoes("Aeroportos", response, "falha");
             }
 
             return response;

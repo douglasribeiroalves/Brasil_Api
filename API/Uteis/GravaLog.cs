@@ -24,7 +24,7 @@ namespace API.Uteis
             _dataAccess = new DataAccess(_dadosBrasilApi.StringConnection);
         }
 
-        public async Task<Boolean> GravarLogRequisicao(string metodo, RestResponse payload, NivelLog nivel)
+        public Boolean GravarLogRequisicao(string metodo, RestResponse payload, NivelLog nivel)
         {
             try
             {
@@ -32,7 +32,7 @@ namespace API.Uteis
                 string content = payload != null ? payload.Content.ToString() : "Erro na Requisição";
 
                 string commandText = $"Insert into tLogIntegracao values (GetDate(), '{metodo}', '{statusCode}', '{content}', '{nivel}')";
-                bool resposta = await _dataAccess.ExecuteNonQuery(commandText);
+                bool resposta = _dataAccess.ExecuteNonQuery(commandText);
 
                 return resposta;
             }
@@ -42,15 +42,13 @@ namespace API.Uteis
             }
         }
 
-        public async Task<Boolean> GravarLogAeroportos(string metodo, RestResponse payload, string ucid, NivelLog nivel)
+        public Boolean GravarLogAeroportos(AeroportoResponse aeroporto)
         {
             try
             {
-                string statusCode = payload != null ? payload.StatusCode.ToString() : string.Empty;
-                string content = payload != null ? payload.Content.ToString() : string.Empty;
-
-                string commandText = $"Insert into tLogIntegracao values (GetDate(), '{ucid}', '{metodo}', '{statusCode}', '{content}', '{nivel}')";
-                bool resposta = await _dataAccess.ExecuteNonQuery(commandText);
+                string commandText = $"Insert into tLogAeroporto values (GetDate(), '{aeroporto.Nome_Aeroporto}', '{aeroporto.Umidade}', '{aeroporto.Visibilidade}', " +
+                    $"'{aeroporto.Pressao_Atmosferica}', '{aeroporto.Vento}', '{aeroporto.Direcao_Vento}', '{aeroporto.Condicao}, '{aeroporto.Condicao_Desc}, '{aeroporto.Temp}')";
+                bool resposta = _dataAccess.ExecuteNonQuery(commandText);
 
                 return resposta;
             }
@@ -60,12 +58,13 @@ namespace API.Uteis
             }
         }
 
-        public async Task<Boolean> GravarLogCidades(CidadeResponse cidade)
+        public Boolean GravarLogCidades(CidadeResponse cidade)
         {
             try
             {
-                string commandText = $"Insert into tLogCidade values (GetDate(), '{cidade.Cidade}', '{cidade.Clima[0].Condicao}', '{cidade.Clima[0].Min}', '{cidade.Clima[0].Max}', '{cidade.Clima[0].IndiceUv}', '{cidade.Clima[0].CondicaoDesc}')";
-                bool resposta = await _dataAccess.ExecuteNonQuery(commandText);
+                string commandText = $"Insert into tLogCidade values (GetDate(), '{cidade.Cidade}', '{cidade.Clima[0].Condicao}', " +
+                    $"'{cidade.Clima[0].Min}', '{cidade.Clima[0].Max}', '{cidade.Clima[0].IndiceUv}', '{cidade.Clima[0].CondicaoDesc}')";
+                bool resposta = _dataAccess.ExecuteNonQuery(commandText);
 
                 return resposta;
             }
@@ -75,21 +74,19 @@ namespace API.Uteis
             }
         }
 
-        public async Task<Boolean> GravarLogError(ErrorResponse error, string mensagem)
+        public Boolean GravarLogError(ErrorResponse error, string mensagem)
         {
-            //try
-            //{
-            //    string commandText = $"Insert into tLogIntegracao values (GetDate(), '{ucid}', '{metodo}', '{statusCode}', '{content}', '{nivel}')";
-            //    bool resposta = await _dataAccess.ExecuteNonQuery(commandText);
+            try
+            {
+                string commandText = $"Insert into tLogError values (GetDate(), '{error.StatusCode}', '{error.Message} {mensagem}', '{error.Type}', '{error.Name}')";
+                bool resposta = _dataAccess.ExecuteNonQuery(commandText);
 
-            //    return resposta;
-            //}
-            //catch
-            //{
-            //    return false;
-            //}
-
-            return false;
+                return resposta;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }
